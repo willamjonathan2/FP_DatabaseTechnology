@@ -6,7 +6,7 @@
 <br> My name is William Jonathan Mulyadi, NIM : 2502045683 <br>
 <t>This github repository contains the files that is used for my Database Technology Final Project.<br><br>
 
-<br><br>
+
 There are 4 files here: <br><br>
 1. Project Proposal<br>
 2. Report<br>
@@ -29,5 +29,6 @@ To run the program please download all the files in the folder DBFP_will.zip and
 Thank you!<br>
 <br><br>
 
-William, Anisa, Hansel
+Regards,<br>
+William Jonathan Mulyadi.
 
