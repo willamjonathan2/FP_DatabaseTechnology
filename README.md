@@ -1,5 +1,5 @@
 <b><h1>Database Technology Final Project:</h1></b>
-<b><h2>Event-ticketing management system!</h2></b>
+<b><h2>E-Concert Ticketing System!</h2></b>
 <h3><b>Dear reader,</h3>
 <br>
   
@@ -20,7 +20,7 @@ The DBFP_will.zip file: contains the code for the program. (notes: I used netbea
 
 <br>
 <h1> Video documentation </h1>
-Link :   
+Link : https://www.youtube.com/watch?v=l4JNqW7Jk3Q <br>
 <h1> MANUALS: </h1> <br>
 To run the program please download all the files in the folder DBFP_will.zip and festdb.sql .<br> Do not forget to install the connector library for jFrame to mysql and do not forget to install rs2xml.jar!<br>
 
