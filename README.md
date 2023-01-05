@@ -4,11 +4,7 @@
 <br>
   
 <br> My name is William Jonathan Mulyadi, NIM : 2502045683 <br>
-<t>This github repository contains the files that is used for my Database Technology Final Project f.<br><br>
-The team members: <br><br>
-1.William Jonathan Mulyadi // 2502045683<br>
-2.Anisa Dzikra // 2502043116<br>
-3.Hansel Faren // 2501990350 <br>
+<t>This github repository contains the files that is used for my Database Technology Final Project.<br><br>
 
 <br><br>
 There are 3 files here: <br><br>
