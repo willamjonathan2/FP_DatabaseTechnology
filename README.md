@@ -19,8 +19,9 @@ The festdb.sql file: the sql file that I created and used for my program.<br>
 The DBFP_will.zip file: contains the code for the program. (notes: I used netbeans apache and created the GUI using jFrame)<br>
 
 <br>
-<h1> Video documentation </h1>
-Link : https://www.youtube.com/watch?v=l4JNqW7Jk3Q <br>
+<h1> LINKS: </h1>
+Video documentation link : https://www.youtube.com/watch?v=l4JNqW7Jk3Q <br>
+BLOG link : https://www.blogger.com/blog/post/edit/preview/621907636242515719/1783907031914085672 <br>
 <h1> MANUALS: </h1> <br>
 To run the program please download all the files in the folder DBFP_will.zip and festdb.sql .<br> Do not forget to install the connector library for jFrame to mysql and do not forget to install rs2xml.jar!<br>
 
